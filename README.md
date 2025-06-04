@@ -3,7 +3,7 @@
 
 ## Resources
 - [Slides](bsidessf_follow_the_trace.pdf)
-- Recording - Coming Soon!
+- [Recording](https://youtu.be/6aitufZLkho)
 - [BSidesSF Website](https://sched.co/1x8Uw)
 - [SSRF Attack & Vulnerable Website](https://github.com/DataDog/application-security-reference-examples/tree/main)
 
